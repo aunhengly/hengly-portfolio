@@ -106,7 +106,7 @@ class Portfolio extends Component {
                 edit, or delete, or ticked as done.
               </p>
               <p>
-                <span>Technologies Used:</span> React, Redux, NodeJs,CSS, and
+                <span>Technologies Used:</span> React, Redux, NodeJs, CSS, and
                 Bootstrap.
               </p>
               {/* <a className="readMore" href="#">
@@ -128,7 +128,7 @@ class Portfolio extends Component {
 const Port = styled.div`
     height: 100%;
     background-color: white;
-    padding:20px 400px;
+    padding:20px 200px;
     text-align: left;
     h1 {
         font-size: 60px;
@@ -146,8 +146,8 @@ const Port = styled.div`
 
     p {
         padding:0 80px 20px 10px;
-        font-size: 20px;
-        line-height: 30px;
+        font-size: 18px;
+        line-height: 25px;
     }
 
     span {

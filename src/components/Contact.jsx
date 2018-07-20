@@ -66,7 +66,7 @@ export default Contact;
 const ContactWrapper = styled.div`
   height: 100%;
   background-color: white;
-  padding: 20px 400px;
+  padding: 20px 200px;
   font-size: 20px;
   text-align: left;
 
@@ -97,7 +97,7 @@ const ContactWrapper = styled.div`
   }
 
   p {
-    font-size: 30px;
+    font-size: 20px;
     padding: 30px 0 10px 30px;
     /* line-height: 10px; */
   }
